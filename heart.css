@@ -38,6 +38,7 @@ body {
     z-index: 100;
     font-size: 2rem;
     transform:rotate(-45deg);
+    color: #f2fcec;
 }
 
 @media (max-width: 600px) {
